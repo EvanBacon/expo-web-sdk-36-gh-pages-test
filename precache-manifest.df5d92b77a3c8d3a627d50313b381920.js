@@ -52,19 +52,19 @@ self.__precacheManifest = [
     "url": "/expo-web-sdk-36-gh-pages-test/apple/splash/icon_1136x640.png"
   },
   {
-    "revision": "7a7bc7ead25db795e58b336f04d2624c",
-    "url": "/expo-web-sdk-36-gh-pages-test/favicon.ico"
+    "revision": "0d06a0d8cab9d66bf8ab859b33614359",
+    "url": "/expo-web-sdk-36-gh-pages-test/expo-service-worker.js"
   },
   {
     "revision": "95134c8d88093ed687dbd90654d7b3f8",
     "url": "/expo-web-sdk-36-gh-pages-test/apple/splash/icon_1334x750.png"
   },
   {
-    "revision": "48c7ed4e7da9792af288a60d7242d615",
-    "url": "/expo-web-sdk-36-gh-pages-test/expo-service-worker.js"
+    "revision": "7a7bc7ead25db795e58b336f04d2624c",
+    "url": "/expo-web-sdk-36-gh-pages-test/favicon.ico"
   },
   {
-    "revision": "16709f23227d220b53e235a942bf292c",
+    "revision": "850345cfd07ee9d5a207065b22a61c66",
     "url": "/expo-web-sdk-36-gh-pages-test/expo-service-worker.js.gz"
   },
   {

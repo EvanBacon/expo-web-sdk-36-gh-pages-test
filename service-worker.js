@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/expo-web-sdk-36-gh-pages-test/precache-manifest.ee5592e6a0c9e9920c86df7e058abb06.js"
+  "/expo-web-sdk-36-gh-pages-test/precache-manifest.df5d92b77a3c8d3a627d50313b381920.js"
 );
 
 workbox.skipWaiting();
