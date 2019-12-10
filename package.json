@@ -3,7 +3,7 @@
     "deploy": "gh-pages -d web-build",
     "predeploy": "expo build:web"
   },
-  "homepage": "http://evanbacon.github.io/expo-web-sdk-36-gh-pages-test",
+  "homepage": "https://evanbacon.github.io/expo-web-sdk-36-gh-pages-test/",
   "dependencies": {
     "expo": "~36.0.0",
     "react": "~16.9.0",
